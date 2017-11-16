@@ -1,0 +1,13 @@
+c:\users\ameer sorne\documents\visual studio 2015\Projects\Slay or Pray - Software Engineering\Slay or Pray - Software Engineering\bin\Debug\Slay or Pray - Software Engineering.exe.config
+Y:\Software Engineering\Semester 2\Intro to Soft Eng (FSE)\SE Project\Slay or Pray - Software Engineering\Slay or Pray - Software Engineering\bin\Debug\Slay or Pray - Software Engineering.exe.config
+Y:\Software Engineering\Semester 2\Intro to Soft Eng (FSE)\SE Project\Slay or Pray - Software Engineering\Slay or Pray - Software Engineering\bin\Debug\Slay or Pray - Software Engineering.exe
+Y:\Software Engineering\Semester 2\Intro to Soft Eng (FSE)\SE Project\Slay or Pray - Software Engineering\Slay or Pray - Software Engineering\bin\Debug\Slay or Pray - Software Engineering.pdb
+Y:\Software Engineering\Semester 2\Intro to Soft Eng (FSE)\SE Project\Slay or Pray - Software Engineering\Slay or Pray - Software Engineering\bin\Debug\Slay or Pray - Software Engineering.xml
+Y:\Software Engineering\Semester 2\Intro to Soft Eng (FSE)\SE Project\Slay or Pray - Software Engineering\Slay or Pray - Software Engineering\obj\Debug\Slay or Pray - Software Engineering.vbprojResolveAssemblyReference.cache
+Y:\Software Engineering\Semester 2\Intro to Soft Eng (FSE)\SE Project\Slay or Pray - Software Engineering\Slay or Pray - Software Engineering\obj\Debug\Slay_or_Pray___Software_Engineering.Form1.resources
+Y:\Software Engineering\Semester 2\Intro to Soft Eng (FSE)\SE Project\Slay or Pray - Software Engineering\Slay or Pray - Software Engineering\obj\Debug\Slay_or_Pray___Software_Engineering.Resources.resources
+Y:\Software Engineering\Semester 2\Intro to Soft Eng (FSE)\SE Project\Slay or Pray - Software Engineering\Slay or Pray - Software Engineering\obj\Debug\Slay or Pray - Software Engineering.vbproj.GenerateResource.Cache
+Y:\Software Engineering\Semester 2\Intro to Soft Eng (FSE)\SE Project\Slay or Pray - Software Engineering\Slay or Pray - Software Engineering\obj\Debug\Slay or Pray - Software Engineering.exe
+Y:\Software Engineering\Semester 2\Intro to Soft Eng (FSE)\SE Project\Slay or Pray - Software Engineering\Slay or Pray - Software Engineering\obj\Debug\Slay or Pray - Software Engineering.xml
+Y:\Software Engineering\Semester 2\Intro to Soft Eng (FSE)\SE Project\Slay or Pray - Software Engineering\Slay or Pray - Software Engineering\obj\Debug\Slay or Pray - Software Engineering.pdb
+Y:\Software Engineering\Semester 2\Intro to Soft Eng (FSE)\SE Project\Slay or Pray - Software Engineering\Slay or Pray - Software Engineering\obj\Debug\Slay_or_Pray___Software_Engineering.Form2.resources
